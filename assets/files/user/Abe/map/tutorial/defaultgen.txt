@@ -1,0 +1,235 @@
+# generatorMgr <Generator(Default)>
+{v0.1} 	# version
+0.000000 0.000000 0.000000 	# startPos
+0.000000 	# startDir
+9 	# 9 generators
+# FD
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	137 70 146 136 145 68 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 	# <FD>
+	-137.643005 0.000000 3033.013916 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# onyn
+	{
+		{onyn} 	# item id
+		0.000000 -121.220001 0.000000 	# rotation
+		{0001} 	# item local version
+		4 	# onyon index
+		1 	# after boot? true==1
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# ÔIj
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	144 212 131 73 131 106 131 136 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 	# <ÔIj>
+	-225.018997 0.000000 2784.604980 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# onyn
+	{
+		{onyn} 	# item id
+		0.000000 -48.880001 0.000000 	# rotation
+		{0001} 	# item local version
+		1 	# onyon index
+		1 	# after boot? true==1
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# ÂIj
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	144 194 131 73 131 106 131 136 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 	# <ÂIj>
+	-700.735992 50.000000 1525.528076 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# onyn
+	{
+		{onyn} 	# item id
+		0.000000 145.000000 0.000000 	# rotation
+		{0001} 	# item local version
+		0 	# onyon index
+		1 	# after boot? true==1
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# ©Ij
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	137 169 131 73 131 106 131 136 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 	# <©Ij>
+	-585.956970 0.000000 2782.989990 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# onyn
+	{
+		{onyn} 	# item id
+		0.000000 62.910000 0.000000 	# rotation
+		{0001} 	# item local version
+		2 	# onyon index
+		1 	# after boot? true==1
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# ÅÌÔIj
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	141 197 143 137 130 204 144 212 131 73 131 106 131 136 131 147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 	# <ÅÌÔIj>
+	-341.791565 60.000000 3933.437256 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# onyn
+	{
+		{onyn} 	# item id
+		0.000000 0.000000 0.000000 	# rotation
+		{0001} 	# item local version
+		1 	# onyon index
+		0 	# after boot? true==1
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# ô©ÔsN~
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	129 244 142 169 138 136 144 212 131 115 131 78 131 126 131 147 0 73 131 138 131 125 129 91 145 164 129 106 0 106 0 0 	# <ô©ÔsN~>
+	-585.956970 0.000000 2782.989990 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{piki} {0001} 	# gen base
+	{
+		{p000} 4 1 	# F
+		{p001} 4 5 	# 
+		{p002} 4 1 	# ©(1=yes)
+		{_eof} 
+	}
+}
+# tutorial_1|sN~
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	116 117 116 111 114 105 97 108 95 49 129 124 142 135 131 115 131 78 131 126 131 147 0 231 0 106 0 0 0 0 0 0 	# <tutorial_1|sN~>
+	-190.000000 80.000000 1160.000000 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# cave
+	{
+		{cave} 	# item id
+		0.000000 -45.000000 0.000000 	# rotation
+		{0002} 	# item local version
+		tutorial_1.txt 
+		units.txt 
+		{t_01} 	# id (for stages.txt)
+		# FogParm
+		{
+			{fg00} 4 1.000000 	# startZ
+			{fg01} 4 1500.000000 	# endZ
+			{fg02} 4 1.500000 	# startTime
+			{fg03} 4 2.000000 	# endTime
+			{fg04} 1 62 	# Red
+			{fg05} 1 77 	# Green
+			{fg06} 1 65 	# Blue
+			{fg07} 4 6000.000000 	# Distance
+			{fg08} 4 200.000000 	# Enter Dist
+			{fg09} 4 205.000000 	# Exit  Dist
+			{_eof} 
+		}
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# tutorial_2|ÏÎF
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	116 117 116 111 114 105 97 108 95 50 129 124 145 207 137 206 137 70 146 136 149 158 0 91 0 0 0 0 0 0 0 0 	# <tutorial_2|ÏÎF>
+	1004.126953 195.000000 20.895903 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# cave
+	{
+		{cave} 	# item id
+		0.000000 -150.000000 0.000000 	# rotation
+		{0002} 	# item local version
+		tutorial_2.txt 
+		units.txt 
+		{t_02} 	# id (for stages.txt)
+		# FogParm
+		{
+			{fg00} 4 1.000000 	# startZ
+			{fg01} 4 1500.000000 	# endZ
+			{fg02} 4 1.500000 	# startTime
+			{fg03} 4 2.000000 	# endTime
+			{fg04} 1 62 	# Red
+			{fg05} 1 77 	# Green
+			{fg06} 1 65 	# Blue
+			{fg07} 4 6000.000000 	# Distance
+			{fg08} 4 200.000000 	# Enter Dist
+			{fg09} 4 205.000000 	# Exit  Dist
+			{_eof} 
+		}
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+# tutorial_3|­»AP
+{
+	{v0.3} 	# version
+	0 	# reserved
+	0 	# ú
+	116 117 116 111 114 105 97 108 95 51 129 124 139 173 137 187 149 158 129 65 131 129 131 138 131 80 131 147 0 80 131 0 	# <tutorial_3|­»AP>
+	-751.828735 182.910004 -1504.724609 	# pos
+	0.000000 0.000000 0.000000 	# offset
+	{item} {0002} 	# cave
+	{
+		{cave} 	# item id
+		0.000000 85.000000 0.000000 	# rotation
+		{0002} 	# item local version
+		tutorial_3.txt 
+		units.txt 
+		{t_03} 	# id (for stages.txt)
+		# FogParm
+		{
+			{fg00} 4 1.000000 	# startZ
+			{fg01} 4 1500.000000 	# endZ
+			{fg02} 4 1.500000 	# startTime
+			{fg03} 4 2.000000 	# endTime
+			{fg04} 1 62 	# Red
+			{fg05} 1 77 	# Green
+			{fg06} 1 65 	# Blue
+			{fg07} 4 6000.000000 	# Distance
+			{fg08} 4 200.000000 	# Enter Dist
+			{fg09} 4 205.000000 	# Exit  Dist
+			{_eof} 
+		}
+	}
+	# gen base
+	{
+		{_eof} 
+	}
+}
+����������������������
